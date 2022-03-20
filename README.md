@@ -64,11 +64,11 @@
 
 ## 💻 Tools
  
-  <img align="center" alt="Edin-linux" height="30" width="40" 
+  <img align="center" alt="Vini-linux" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg>
-  <img align="center" alt="Edin-vim" height="30" width="40" 
+  <img align="center" alt="Vini-vim" height="30" width="40" 
        src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg>
-  <img align="center" alt="Edin-vim" height="30" width="40" 
+  <img align="center" alt="Vini-vim" height="30" width="40" 
        src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg>
       
 
@@ -79,7 +79,6 @@
 <div>  
   
   <a href = "mailto: vinicius.henrique@aluno.ifsp.edu.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/vinícius-h-a76780132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/channels/@Vini_Vini_VIsh#3595" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/vinícius-henrique-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
