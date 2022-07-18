@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">  
-  <img src="https://c.tenor.com/QJg3wfXCL5AAAAAC/surprise-chris-pratt.gif" width=30%>  
+  <img src="https://c.tenor.com/QJg3wfXCL5AAAAAC/surprise-chris-pratt.gif" width=50%>  
 </p>
 
 
